@@ -13,7 +13,7 @@ public class MCBattlegrounds extends JavaPlugin {
 	
 	@Override
 	public void onEnable() {
-		System.out.println("Plugin MC-Battlegrounds loaded.");
+		System.out.println("Plugin MC-Battlegrounds loaded + jeremy stinkt.");
 	}
 	
 	
